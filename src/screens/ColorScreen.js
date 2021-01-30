@@ -22,10 +22,10 @@ const ColorScreen = () => {
           return (
             <View
               style={{
-                height: 100,
+                height: 28,
                 width: "100%",
                 backgroundColor: item,
-                borderRadius: 45,
+                borderRadius: 0,
               }}
             />
           );
